@@ -1,0 +1,48 @@
+.emp{
+  font-size: 0.4rem; 
+  align-items: center;
+ display: flex;
+ align-items: center;
+ gap:20px;
+ 
+ 
+}
+
+.red{
+  background-color: blueviolet;
+  display: flex;
+  gap: 30px;
+  color: white;
+}
+
+.blue{
+  background-color: gray;
+  display: flex;
+  gap: 30px;
+  color: white;
+
+}
+
+.cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(204, 210, 216);
+  flex-direction: column;
+  
+}
+
+.container{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+}
+
+.compcontainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
